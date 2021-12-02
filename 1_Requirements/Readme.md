@@ -29,8 +29,36 @@ The ease of conducting financial transactions is probably the biggest motivator 
 
 ## Threats:
 
-* * The biggest fear is the risk of identity theft. Since we are culturally not attuned to digital transactions, even well-educated people run the risk of falling into phishing traps
+* The biggest fear is the risk of identity theft. Since we are culturally not attuned to digital transactions, even well-educated people run the risk of falling into phishing traps.
 * Since you will be dependent on your phone for all your transactions on the move, losing it can prove to be a double whammy.
 
+## 4W's And 1H:
+
+# WHO:
+Even uneducated people can use this system with their permission and security.
+
+# WHAT:
+Implementation of Cashless System using Multi-Drop Bus /Internal Communication Protocol(MDB/ICP).
+
+# WHEN:
+At any time, you can use easily.
+
+# HOW:
+This Application is Implemented using C Embedded Programing language.
+
+# High Level Requirements:
+
+| HLR_ID | 	Description | Status |
+| ------ | ------ | ------ |
+| HLR_1 |  The System is requires a password for every users for a security | IMPLEMENTED |
+|  HLR_2 | Consumes a Small Amount Internet & Do Perfect On-Going Operations| IMPLEMENTED |
+
+# Low Level Requirements:
+
+| LLR_ID |Description | Status |
+| ------ | ------ | ------ |
+| LLR_1 | Can't loaded more than one device at a time| IMPLEMENTED |
+|LLR_2 | The System can be Operated everywhere but the receiver must have the same system | IMPLEMENTED |	
+|LLR_3 | Whenever, the money get transacted it will reflected on the user's bank account | IMPLEMENTED |
 
 

@@ -1,7 +1,9 @@
 
 # M2-Embedded_MdbArduinoCashless
 
-
+| Build | Cppcheck | 
+| ----- | ----- |
+|[![Build](https://github.com/Yukesh3100/M2-Embedded_MdbArduinoCashless/actions/workflows/build.yml/badge.svg)](https://github.com/Yukesh3100/M2-Embedded_MdbArduinoCashless/actions/workflows/build.yml)|[![Cppcheck](https://github.com/Yukesh3100/M2-Embedded_MdbArduinoCashless/actions/workflows/cpp.yml/badge.svg)](https://github.com/Yukesh3100/M2-Embedded_MdbArduinoCashless/actions/workflows/cpp.yml)|
 
 # Folder Structure
 | Folder | Description |
